@@ -5,7 +5,7 @@ will be approved using Logistic Regression.
 
 ## Dataset
 
-The dataset contains 1000 loan application records.
+The dataset contains 1000 loan application records.(Demo dataset for learning purpose)
 
 ### Features
 
